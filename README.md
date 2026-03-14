@@ -1,4 +1,5 @@
-# ESP32 Marauder — M5StickC Plus **"usage strictement en environnement autorisé"**
+# ESP32 Marauder — M5StickC Plus 
+**"usage strictement en environnement autorisé"**
 
 ## Matériel
 M5StickC Plus (ESP32-PICO) — firmware Marauder
